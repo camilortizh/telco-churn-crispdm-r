@@ -22,6 +22,10 @@ A telecom operator hires you to address both:
 - Usage variables represent the last six months of customer activity.
 - All customers are postpaid subscribers.
 - Test data is an additional non-random sample; the churn label is not provided.
+## Authors
+- Camilo Andrés Ortiz  
+- Juliana Rubio  
+- Juan Torres 
 
 ---
 
@@ -72,3 +76,7 @@ Un operador de telecomunicaciones los contrata para abordar ambas necesidades:
 
 ### No incluido aquí
 - El pipeline completo de **Kaggle submission** (notebook final + formato “última milla” y validación solo al subir)
+## Autores
+- Camilo Andrés Ortiz  
+- Juliana Rubio  
+- Juan Torres 
